@@ -1,0 +1,32 @@
+{
+  "citation": "",
+  "dataset_size": 2073646,
+  "description": "",
+  "download_checksums": {
+    "https://huggingface.co/datasets/ybelkada/football-dataset/resolve/7d02c47036a5eddb519c924eb937f3ccaceb5743/data/train-00000-of-00001-fc7c825a21687306.parquet": {
+      "num_bytes": 2074835,
+      "checksum": null
+    }
+  },
+  "download_size": 2074835,
+  "features": {
+    "image": {
+      "_type": "Image"
+    },
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 4148481,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 2073646,
+      "num_examples": 6,
+      "dataset_name": "parquet"
+    }
+  }
+}
